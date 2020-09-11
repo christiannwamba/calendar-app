@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "description": "Calendar App Logic",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
